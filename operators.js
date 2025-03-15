@@ -51,6 +51,23 @@ console.log(num3 === num4)
 const letter = "A";
 console.log(letter == "A")
 
+// Using if
+// let grade = "A";
+// if(grade === "A"){
+//     console.log("You are excelent");
+// }
+
+//Using if else
+let grade = "A";
+if(grade === "A"){
+    console.log("Grade is A")
+}
+else{
+    console.log("Your grade is not A");
+}
+
+
+//Using if - else if - else
 const score = 10;
 if(score >= 90){
     console.log("Your grade is A")
@@ -68,3 +85,18 @@ else{
     console.log("You are fail");
 }
 
+// Using Nexted if else
+
+let user="tahirsaifi09";
+let pass=123;
+if(user === "tahirsaifi09"){
+    if(pass===123){
+        console.log("Log in successfully");
+    }
+    else{
+        console.log("Invalid password!");
+    }
+}
+else{
+    console.log("Invalid User");
+}
