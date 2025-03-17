@@ -8,7 +8,9 @@
 
 // console.log("your age is : " + age);
 
-
+// let name="tahir";
+// name="deepak"
+// console.log(name);
 
 // 6 Types of Data Type
 
