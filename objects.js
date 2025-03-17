@@ -5,6 +5,12 @@
 // let userName = "Tahir";
 //    alert("Welcome, " + userName + "!"); 
 
+//   let userName = prompt("What is your name?");
+// if (userName === null) {
+//     alert("You canceled the prompt."); 
+// } else {
+//     alert("Hello, " + userName + "!");
+// }
 
 // Object is a real world entity that has some nature feature and behaviour
 
