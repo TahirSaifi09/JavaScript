@@ -14,11 +14,14 @@
 
 // Object is a real world entity that has some nature feature and behaviour
 
-const person = {
+let person = {
     firstName:"Deepak",
     lastName:"Sharma",
     age:23,
 };
+
+person.firstName = "Tahir"
+console.log(person)
 
 // console.log(person)
 
@@ -46,6 +49,6 @@ const car2 = {
 
 //* Delete key
 
-delete car.isNew;
-console.log(car["color"])
+// delete car.isNew;
+// console.log(car["color"])
 
