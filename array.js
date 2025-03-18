@@ -9,8 +9,8 @@ const names = ["Tahir", "Deepak", "Aman", "Taniya"]
 // console.log(names[0]);
 
 // Update
-// names[0]="Tahir Saifi";
-// console.log(names);
+names[0]="Tahir Saifi";
+console.log(names);
 
 // Add Data
 // names.push("Aman", "Taniya")        * Multiple data can store But in last of arr
